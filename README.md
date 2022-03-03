@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @geb212
+- 👋 Hi, I’m Gabriele
 - 👀 I’m interested in mobile application, artificial intelligence and robotics
 - 🌱 I’m currently learning java, javascript, python and react
 
